@@ -1,4 +1,4 @@
-About TurboVNC
+About ZenoVNC
 ==============
 
 Virtual Network Computing (VNC) is a remote display system that allows you to
@@ -21,36 +21,22 @@ description of the components that make up TurboVNC.
 More information about TurboVNC can be found at <https://TurboVNC.org>.
 
 
-Funding
-=======
-
-TurboVNC is an independent open source project, but we rely on patronage and
-funded development in order to maintain that independence.  The easiest way to
-ensure that TurboVNC remains community-focused and free of any one
-organization's agenda is to
-[sponsor our project through GitHub](https://github.com/sponsors/TurboVNC).
-All sponsorship money goes directly toward funding the labor necessary to
-maintain TurboVNC, support the user community, and implement bug fixes and
-strategically important features.
-
-[![Sponsor TurboVNC](https://img.shields.io/github/sponsors/TurboVNC?label=Sponsor&logo=GitHub)](https://github.com/sponsors/TurboVNC)
-
-
 Legal
 =====
 
-TurboVNC is
+ZenoVNC is
 
-    Copyright (C) 2009-2024 D. R. Commander
+    Copyright (C) 2024 Zenobyte Labs, Inc.
+    
+
+ZenoVNC contains code from LibVNCServer, RealVNC, TigerVNC, TurboVNC and TightVNC
+which are
+
     Copyright (C) 2021 Steffen Kieß
     Copyright (C) 2011-2019 Brian P. Hinz
     Copyright (C) 2010 University Corporation for Atmospheric Research
     Copyright (C) 2004-2008 Sun Microsystems, Inc.
     Copyright (C) 2004 Landmark Graphics Corporation
-
-TurboVNC contains code from LibVNCServer, RealVNC, TigerVNC, and TightVNC,
-which are
-
     Copyright (C) 2009-2021 Pierre Ossman for Cendio AB
     Copyright (C) 2005-2011 Martin Koegler
     Copyright (C) 2010-2011 Joel Martin
